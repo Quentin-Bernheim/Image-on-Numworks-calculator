@@ -1,7 +1,7 @@
 # Image on NumWorks Calculator
 
 ## Description
-Ce projet permet d'afficher des images sur la calculatrice NumWorks en convertissant des fichiers image en un format compatible.
+Ce projet permet d'afficher des images sur la calculatrice NumWorks en convertissant des fichiers image en une chaine de caractèr.
 
 ## Installation et Utilisation
 1. **Exécuter le script `data`** dans un environnement Python pour obtenir l'image encodée et la palette de couleurs.
